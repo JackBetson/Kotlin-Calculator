@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculos</string>
+    <string name="equals">es igual</string>
+    <string name="plus">más</string>
+</resources>
